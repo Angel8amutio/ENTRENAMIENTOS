@@ -1,0 +1,17 @@
+{
+  "name": "Mi entrenamiento",
+  "short_name": "Entreno",
+  "description": "Calendario y registro de ejercicios de gimnasio",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF6DC",
+  "theme_color": "#C60B1E",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
